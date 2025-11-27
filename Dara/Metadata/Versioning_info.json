@@ -1,0 +1,10 @@
+{
+  "dataset_version": "1.0.0",
+  "repo_version": "1.0.0",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release of Hollow House Tools with full structure."
+    }
+  ]
+}
