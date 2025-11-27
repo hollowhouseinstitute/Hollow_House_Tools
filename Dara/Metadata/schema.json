@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hollow House Tools Dataset Schema",
+  "type": "object",
+  "properties": {
+    "entry_id": { "type": "string" },
+    "timestamp": { "type": "string", "format": "date-time"},
+    "source": { "type": "string" },
+    "category": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "content": { "type": "string" }
+  },
+  "required": ["entry_id", "timestamp", "category", "content"]
+}
