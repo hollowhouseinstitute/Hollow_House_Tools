@@ -1,0 +1,15 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing to Hollow House Tools.
+
+## Requirements
+1. Maintain confidentiality around any sensitive psychological data.
+2. Avoid adding any real-world identifying information.
+3. Use Issues to discuss changes before submitting PRs.
+4. Follow the folder structure and naming conventions.
+5. All code must be documented and pass basic linting (PEP-8 suggested).
+
+## Pull Requests
+- Include clear descriptions
+- Reference related issues
+- Ensure compatibility with existing datasets and codices
